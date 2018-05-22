@@ -1,0 +1,347 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.11)  20 APR 2018 15:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/02/24 3.9q The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen104
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen115
+\scratchbox=\box28
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen116
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+
+LaTeX Warning: No \author given.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5]
+<1-G_n100.pdf, id=25, 289.08pt x 289.08pt>
+File: 1-G_n100.pdf Graphic file (type pdf)
+ <use 1-G_n100.pdf>
+Package pdftex.def Info: 1-G_n100.pdf used on input line 103.
+(pdftex.def)             Requested size: 345.0pt x 345.01958pt.
+
+<2-G_norm_n100.pdf, id=26, 289.08pt x 289.08pt>
+File: 2-G_norm_n100.pdf Graphic file (type pdf)
+ <use 2-G_norm_n100.pdf>
+Package pdftex.def Info: 2-G_norm_n100.pdf used on input line 109.
+(pdftex.def)             Requested size: 345.0pt x 345.01958pt.
+
+<3-meanG_by_p_k_n100.pdf, id=27, 289.08pt x 289.08pt>
+File: 3-meanG_by_p_k_n100.pdf Graphic file (type pdf)
+
+<use 3-meanG_by_p_k_n100.pdf>
+Package pdftex.def Info: 3-meanG_by_p_k_n100.pdf used on input line 118.
+(pdftex.def)             Requested size: 345.0pt x 345.01958pt.
+
+<4-sdG_by_p_k_n100.pdf, id=28, 289.08pt x 289.08pt>
+File: 4-sdG_by_p_k_n100.pdf Graphic file (type pdf)
+
+<use 4-sdG_by_p_k_n100.pdf>
+Package pdftex.def Info: 4-sdG_by_p_k_n100.pdf used on input line 124.
+(pdftex.def)             Requested size: 345.0pt x 345.01958pt.
+
+<5-normG_by_p_k_n100.pdf, id=29, 289.08pt x 289.08pt>
+File: 5-normG_by_p_k_n100.pdf Graphic file (type pdf)
+
+<use 5-normG_by_p_k_n100.pdf>
+Package pdftex.def Info: 5-normG_by_p_k_n100.pdf used on input line 130.
+(pdftex.def)             Requested size: 345.0pt x 345.01958pt.
+
+<6-skewG_by_p_k_n100.pdf, id=30, 289.08pt x 289.08pt>
+File: 6-skewG_by_p_k_n100.pdf Graphic file (type pdf)
+
+<use 6-skewG_by_p_k_n100.pdf>
+Package pdftex.def Info: 6-skewG_by_p_k_n100.pdf used on input line 136.
+(pdftex.def)             Requested size: 345.0pt x 345.01958pt.
+ [6] [7 <./1-G_n100.pdf>] [8 <./2-G_norm_n100.pdf>] [9 <./3-meanG_by_p_k_n100.p
+df>] [10 <./4-sdG_by_p_k_n100.pdf>] [11 <./5-normG_by_p_k_n100.pdf>] [12 <./6-s
+kewG_by_p_k_n100.pdf>]
+<8-cpl_vs_clus_G_col.pdf, id=94, 289.08pt x 289.08pt>
+File: 8-cpl_vs_clus_G_col.pdf Graphic file (type pdf)
+
+<use 8-cpl_vs_clus_G_col.pdf>
+Package pdftex.def Info: 8-cpl_vs_clus_G_col.pdf used on input line 145.
+(pdftex.def)             Requested size: 345.0pt x 345.01958pt.
+ <7-k_vs_p_G_col.pdf, id=95, 289.08pt x 289.08pt>
+File: 7-k_vs_p_G_col.pdf Graphic file (type pdf)
+
+<use 7-k_vs_p_G_col.pdf>
+Package pdftex.def Info: 7-k_vs_p_G_col.pdf used on input line 154.
+(pdftex.def)             Requested size: 345.0pt x 345.01958pt.
+ [13 <./8-cpl_vs_clus_G_col.pdf>] [14 <./7-k_vs_p_G_col.pdf>] [15] <p0.png, id=
+120, 368.1253pt x 294.34969pt>
+File: p0.png Graphic file (type png)
+ <use p0.png>
+Package pdftex.def Info: p0.png used on input line 179.
+(pdftex.def)             Requested size: 345.0pt x 275.88028pt.
+
+<p25.png, id=121, 368.1253pt x 294.34969pt>
+File: p25.png Graphic file (type png)
+ <use p25.png>
+Package pdftex.def Info: p25.png used on input line 185.
+(pdftex.def)             Requested size: 345.0pt x 275.88028pt.
+
+<p50.png, id=122, 368.1253pt x 294.34969pt>
+File: p50.png Graphic file (type png)
+ <use p50.png>
+Package pdftex.def Info: p50.png used on input line 191.
+(pdftex.def)             Requested size: 345.0pt x 275.88028pt.
+
+<p75.png, id=123, 368.1253pt x 294.34969pt>
+File: p75.png Graphic file (type png)
+ <use p75.png>
+Package pdftex.def Info: p75.png used on input line 197.
+(pdftex.def)             Requested size: 345.0pt x 275.88028pt.
+
+<p100.png, id=124, 368.1253pt x 294.34969pt>
+File: p100.png Graphic file (type png)
+ <use p100.png>
+Package pdftex.def Info: p100.png used on input line 203.
+(pdftex.def)             Requested size: 345.0pt x 275.88028pt.
+
+<p0n14c.png, id=125, 587.19376pt x 195.73125pt>
+File: p0n14c.png Graphic file (type png)
+ <use p0n14c.png>
+Package pdftex.def Info: p0n14c.png used on input line 209.
+(pdftex.def)             Requested size: 345.0pt x 114.99957pt.
+
+<wt_gen_steps.png, id=126, 587.19376pt x 195.73125pt>
+File: wt_gen_steps.png Graphic file (type png)
+ <use wt_gen_steps.png>
+Package pdftex.def Info: wt_gen_steps.png used on input line 215.
+(pdftex.def)             Requested size: 345.0pt x 114.99957pt.
+
+<metrics_plots.pdf, id=127, 578.16pt x 289.08pt>
+File: metrics_plots.pdf Graphic file (type pdf)
+ <use metrics_plots.pdf>
+Package pdftex.def Info: metrics_plots.pdf used on input line 223.
+(pdftex.def)             Requested size: 345.0pt x 172.49655pt.
+
+No file main.bbl.
+[16 <./p0.png>] [17 <./p25.png>] [18 <./p50.png>] [19 <./p75.png>] [20 <./p100.
+png> <./p0n14c.png>] [21 <./wt_gen_steps.png> <./metrics_plots.pdf>]
+(./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 2602 strings out of 494953
+ 34842 string characters out of 6180977
+ 101077 words of memory out of 5000000
+ 5852 multiletter control sequences out of 15000+600000
+ 8715 words of font info for 32 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 37i,9n,23p,1848b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy7.pfb>
+Output written on main.pdf (21 pages, 270055 bytes).
+PDF statistics:
+ 200 PDF objects out of 1000 (max. 8388607)
+ 129 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+
